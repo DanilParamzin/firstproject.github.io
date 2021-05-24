@@ -1,0 +1,296 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+
+body{
+    padding: 0;
+    margin: 0;
+    background: #373AF5;
+    border-radius: 8px;
+}
+
+
+
+.head{
+    border: 0px;
+    padding: 65px 0 60px 0;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    align-content: center; 
+    justify-content: center; 
+    overflow: auto;  
+    position: relative;
+    z-index: 10;
+}
+
+.container{
+    max-width:100%;
+    margin: 0;
+    padding: 0 1rem
+}
+
+.head__top {
+    margin: 0%;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 102px;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+.v1 {
+    position: absolute;
+    width: 572.17px;
+    height: 730.5px;
+    right: 0px;
+    top: -78px;
+}
+
+
+.v2 { 
+    position: absolute;
+    width: 766.56px;
+    height: 1130px;
+    right: 0px;
+    top: -2px;
+   
+}
+
+
+.v3{
+    position: absolute;
+    width: 596.56px;
+    height: 812.5px;
+    left: -74px;
+    top: 360px;
+   
+}
+
+
+.v4{
+    position: absolute;
+    width: 506px;
+    height: 223.72px;
+    left: 0px;
+    top: 958px;
+ 
+}
+
+.v5 {
+    position: absolute;
+    width: 496px;
+    height: 294.17px;
+    left: 0px;
+    top: 0px;
+}
+
+
+.v6{
+    position: absolute;
+    width: 820px;
+    height: 381px;
+    left: 0px;
+    top: 801px;
+}
+
+
+
+
+
+/* block 7 days */
+
+.container_sidebar{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    align-content: center; 
+    justify-content: center; 
+    overflow: auto;  
+    z-index: 10;
+}
+
+.sidebar{
+    padding: 0 34px 0 41px;
+}
+
+.block__1{
+    height: 524px;
+    width: 602px ;
+    padding: 0 0 0 58px;
+    flex: 0 0 200px;
+ 
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(4, 5, 73, 0.25), 14px 14px 20px rgba(5, 6, 114, 0.2);
+    border-radius: 8px;
+}
+
+.text1{
+    padding: 50px 0 32px 0;
+}
+
+
+.text_head{
+    margin: 0;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 32px;
+    color: #2C2D76;
+}
+
+
+/* Select city*/
+
+.submenu1{
+    padding: 0 0 64px 0;
+    margin: 0;
+}
+
+
+.btn{
+    height: 48px;
+    width: 252px;
+    background: rgba(128, 131, 164, 0.06);
+    border: 2px solid rgba(128, 131, 164, 0.2);
+    box-sizing: border-box;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
+
+
+.text{
+    padding: 10px 0 10px 0;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #8083A4;
+    margin: 0px;
+}
+
+
+.btn_1{
+    padding: 0%;
+    margin: 0px 0 0 112px;
+}
+
+
+
+
+
+
+
+
+
+
+.icon1{ 
+    margin: 0;
+    padding: 0 58px 0 0;
+    display: flex;
+    justify-content: center;
+}
+
+.bord{
+    width: 160px;
+    height: 160px;
+    border: dashed #8083A4;
+    background: #fff;
+    margin: 0;
+}
+
+
+.block__text{
+    margin: 0;
+    padding: 24px 0 0 0;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+
+
+    text-align: center;
+
+
+
+    color: #8083A4;
+}
+
+
+/* select city and data */
+
+.submenu{
+    display: flex;
+    
+}
+
+.btn_2{
+    padding: 0 0 0 24px;
+}
+
+.icon2{
+    padding: 0 58px 0 0;
+    display: flex;
+    justify-content: center; 
+}
+
+
+
+
+  /* C ЛЮБОВЬЮ ОТ MERCURY DEVELOPMENT */
+
+.footer_text{
+    padding: 199px 0 0 0;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    align-content: center; 
+    justify-content: center; 
+    overflow: auto;  
+    position: relative;
+    z-index: 10;
+    font-family: Ubuntu;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    opacity: 0.6;
+}
+
+
+
+
+@media (max-width: 1440px){
+    .container_sidebar {
+        height: auto;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .sidebar{
+        padding: 0 0 34px 0;
+    }
+    .footer_text{
+        padding: 46px 0 0 0;
+    }
+    
+}
