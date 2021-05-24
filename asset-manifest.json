@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/firstproject.github.io/static/css/main.8b2b3b16.chunk.css",
+    "main.js": "/firstproject.github.io/static/js/main.eecbd8cf.chunk.js",
+    "main.js.map": "/firstproject.github.io/static/js/main.eecbd8cf.chunk.js.map",
+    "runtime-main.js": "/firstproject.github.io/static/js/runtime-main.02ba7ad1.js",
+    "runtime-main.js.map": "/firstproject.github.io/static/js/runtime-main.02ba7ad1.js.map",
+    "static/js/2.b051e37c.chunk.js": "/firstproject.github.io/static/js/2.b051e37c.chunk.js",
+    "static/js/2.b051e37c.chunk.js.map": "/firstproject.github.io/static/js/2.b051e37c.chunk.js.map",
+    "static/js/3.937fd3b5.chunk.js": "/firstproject.github.io/static/js/3.937fd3b5.chunk.js",
+    "static/js/3.937fd3b5.chunk.js.map": "/firstproject.github.io/static/js/3.937fd3b5.chunk.js.map",
+    "index.html": "/firstproject.github.io/index.html",
+    "static/css/main.8b2b3b16.chunk.css.map": "/firstproject.github.io/static/css/main.8b2b3b16.chunk.css.map",
+    "static/js/2.b051e37c.chunk.js.LICENSE.txt": "/firstproject.github.io/static/js/2.b051e37c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02ba7ad1.js",
+    "static/js/2.b051e37c.chunk.js",
+    "static/css/main.8b2b3b16.chunk.css",
+    "static/js/main.eecbd8cf.chunk.js"
+  ]
+}
